@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897407117872",
+    "project_id": "mental-wellness-app-6b9cc",
+    "storage_bucket": "mental-wellness-app-6b9cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897407117872:android:d980867d9dc25ef63c5bf5",
+        "android_client_info": {
+          "package_name": "com.example.mental_wellness_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA68B6cAnHxWPovURIIyr5PGiu91SojrlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
